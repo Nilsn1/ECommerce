@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_fragment_main.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_world.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_world.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_like.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_logo_small.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/logo_small.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_psychology.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_psychology.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_activity_detail.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_favourite.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_favourite.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_heart.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_heart.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_activity_home.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/menu_bottom_menu.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_fragment_category.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/fragment_category.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_mystery.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_mystery.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_like_dislike_selector.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/like_dislike_selector.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_history.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_history.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_app_logo.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/app_logo.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_star.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_star.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/font_marathi500.TTF.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/font/marathi500.TTF"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/anim_fade_in.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_exit.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/exit.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/font_nunito_bold.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/font/nunito_bold.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_item.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/item.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_fragment_settings.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_internet_dialog.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/internet_dialog.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_line.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/line.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_tech.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_tech.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_roundback.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/roundback.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/font_marathi220.TTF.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/font/marathi220.TTF"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_bottom_nav_selector.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/bottom_nav_selector.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_copy.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_copy.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_heart2.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_heart2.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_play.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_settings.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_settings.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_share.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_share.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_activity_splash.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_privacy.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_privacy.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_random.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_random.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_more.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_more.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_download.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_download.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/font_nunito_semibold.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/font/nunito_semibold.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_roundbutton.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/roundbutton.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_animals.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_animals.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_round_card.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/round_card.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_exit_dialog.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/exit_dialog.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_share2.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_share2.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_contact.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_contact.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_categories.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_categories.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_no_internet.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_no_internet.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_back.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/back.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_logo.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/logo.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_fragment_favourite.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/fragment_favourite.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/xml_paths.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/xml/paths.xml"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable_ic_home.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable/ic_home.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_nature.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_nature.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/font_marathi709.TTF.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/font/marathi709.TTF"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/drawable-hdpi_img_health.jpg.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/drawable-hdpi/img_health.jpg"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/font_marathi644.TTF.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/font/marathi644.TTF"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_fragment_category_search.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/fragment_category_search.xml"
+    }
+]
