@@ -2761,6 +2761,7 @@ int drawable test_level_drawable 0x7f08010c
 int drawable tooltip_frame_dark 0x7f08010d
 int drawable tooltip_frame_light 0x7f08010e
 int font marathi220 0x7f090000
+int font marathi240 0x7f090006
 int font marathi500 0x7f090001
 int font marathi644 0x7f090002
 int font marathi709 0x7f090003
@@ -3627,6 +3628,7 @@ int string m3_sys_motion_easing_linear 0x7f130055
 int string m3_sys_motion_easing_standard 0x7f130056
 int string m3_sys_motion_easing_standard_accelerate 0x7f130057
 int string m3_sys_motion_easing_standard_decelerate 0x7f130058
+int string marathi_quotes_status 0x7f1300c1
 int string material_clock_display_divider 0x7f130059
 int string material_clock_toggle_content_description 0x7f13005a
 int string material_hour_selection 0x7f13005b

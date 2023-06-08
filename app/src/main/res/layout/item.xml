@@ -26,7 +26,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#00BCD4"
-                android:paddingHorizontal="14dp"
+                android:paddingHorizontal="20dp"
                 android:paddingVertical="40dp">
 
                 <TextView
@@ -37,17 +37,17 @@
                     android:gravity="center"
                     android:text="Interesting facts about health and fitness Interesting facts about health and fitness Interesting facts about health Interesting facts about health"
                     android:textColor="@color/white"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/main_title"
-                    android:layout_marginTop="20dp"
+                    android:layout_marginTop="25dp"
                     android:fontFamily="@font/nunito_bold"
                     android:gravity="center"
-                    android:text="#healthfacts"
+                    android:text="@string/marathi_quotes_status"
                     android:textColor="@color/white"
                     android:textSize="12sp"
                     android:textStyle="bold" />

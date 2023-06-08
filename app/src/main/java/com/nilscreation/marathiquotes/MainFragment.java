@@ -133,7 +133,7 @@ public class MainFragment extends Fragment {
                 "medium").adItemInterval(10).build();
         recyclerView.setAdapter(admobNativeAdAdapter);
 
-        DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference("HealthFacts");
+        DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference("MarathiQuotes");
         databaseReference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {

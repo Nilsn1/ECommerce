@@ -82,7 +82,7 @@ public class FactsAdapter extends RecyclerView.Adapter<FactsAdapter.MovieHolder>
 
         //set title
         holder.title.setText(title);
-        Typeface typeface = ResourcesCompat.getFont(holder.title.getContext(), R.font.marathi500);
+        Typeface typeface = ResourcesCompat.getFont(holder.title.getContext(), R.font.marathi240);
         holder.title.setTypeface(typeface);
         holder.relativeLayout.setBackgroundColor(Color.argb(255, r.nextInt(256), r.nextInt(256), r.nextInt(256)));
 
