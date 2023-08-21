@@ -25,6 +25,10 @@ import android.widget.TextView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.firebase.analytics.FirebaseAnalytics;
+import com.nilscreation.marathiquotes.fragment.CategoryFragment;
+import com.nilscreation.marathiquotes.fragment.FavouriteFragment;
+import com.nilscreation.marathiquotes.fragment.MainFragment;
+import com.nilscreation.marathiquotes.fragment.SettingsFragment;
 
 public class HomeActivity extends AppCompatActivity {
 
@@ -59,7 +63,7 @@ public class HomeActivity extends AppCompatActivity {
                 } else if (id == R.id.favourite) {
                     loadFragment(new FavouriteFragment());
                 } else {
-                    loadFragment(new CategorySearchFragment.CategoryFragment());
+                    loadFragment(new CategoryFragment());
                 }
                 return true;
             }
@@ -118,7 +122,7 @@ public class HomeActivity extends AppCompatActivity {
         FragmentManager fm = getSupportFragmentManager();
         Fragment fragInstance = fm.findFragmentById(R.id.mainContainer);
 
-        if (fragInstance instanceof CategorySearchFragment.CategoryFragment) {
+        if (fragInstance instanceof CategoryFragment) {
             loadFragment(new MainFragment());
             bottomNavigation.setSelectedItemId(R.id.home);
         } else if (fragInstance instanceof FavouriteFragment) {
@@ -127,8 +131,6 @@ public class HomeActivity extends AppCompatActivity {
         } else if (fragInstance instanceof SettingsFragment) {
             loadFragment(new MainFragment());
             bottomNavigation.setSelectedItemId(R.id.home);
-        } else if (fragInstance instanceof CategorySearchFragment) {
-            loadFragment(new CategorySearchFragment.CategoryFragment());
         } else {
             callExitDialog();
         }

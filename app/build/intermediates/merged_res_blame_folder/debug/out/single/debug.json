@@ -12,12 +12,12 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable_round_card.xml.flat",
-        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\drawable\\round_card.xml"
-    },
-    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\layout_item.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable_round_card.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\drawable\\round_card.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable_ic_heart.png.flat",
@@ -54,6 +54,10 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable_ic_share2.png.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\drawable\\ic_share2.png"
+    },
+    {
+        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_fragment_category.xml.flat",
+        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/fragment_category.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_background.png.flat",
@@ -112,10 +116,6 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.nilscreation.marathiquotes.app-merged_res-40:/layout_item.xml.flat",
-        "source": "com.nilscreation.marathiquotes.app-main-42:/layout/item.xml"
-    },
-    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\anim_fade_in.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\anim\\fade_in.xml"
     },
@@ -162,10 +162,6 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\xml_paths.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\xml\\paths.xml"
-    },
-    {
-        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\layout_fragment_category_search.xml.flat",
-        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\layout\\fragment_category_search.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable-hdpi_img_history.jpg.flat",
@@ -252,6 +248,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\font\\marathi240.TTF"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable_rounded_card.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\drawable\\rounded_card.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable_ic_play.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\drawable\\ic_play.xml"
     },
@@ -296,12 +296,16 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\font\\nunito_bold.xml"
     },
     {
-        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\layout_activity_detail.xml.flat",
-        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\layout\\activity_detail.xml"
-    },
-    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\layout_fragment_settings.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\layout_item_category.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\drawable_main_item_card.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-main-42:\\drawable\\main_item_card.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.marathiquotes.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_monochrome.png.flat",

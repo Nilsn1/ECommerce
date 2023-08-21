@@ -9,7 +9,7 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:cardCornerRadius="15dp"
+        app:cardCornerRadius="18dp"
         app:cardElevation="6dp"
         app:cardUseCompatPadding="true"
         app:layout_constraintEnd_toEndOf="parent"
@@ -26,7 +26,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#00BCD4"
-                android:paddingHorizontal="20dp"
+                android:paddingHorizontal="30dp"
                 android:paddingVertical="40dp">
 
                 <TextView
@@ -35,9 +35,14 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/nunito_bold"
                     android:gravity="center"
+                    android:minLines="3"
+                    android:shadowColor="#66000000"
+                    android:shadowDx="7"
+                    android:shadowDy="7"
+                    android:shadowRadius="8"
                     android:text="Interesting facts about health and fitness Interesting facts about health and fitness Interesting facts about health Interesting facts about health"
                     android:textColor="@color/white"
-                    android:textSize="25sp"
+                    android:textSize="24sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -56,9 +61,9 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginHorizontal="10dp"
                 android:gravity="center"
-                android:orientation="horizontal">
+                android:orientation="horizontal"
+                android:paddingHorizontal="10dp">
 
                 <LinearLayout
                     android:layout_width="wrap_content"

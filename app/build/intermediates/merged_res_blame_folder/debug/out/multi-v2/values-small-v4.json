@@ -4,7 +4,7 @@
             "outputFile": "com.nilscreation.marathiquotes.app-mergeDebugResources-38:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\caches\\transforms-3\\b59d239bbdc480a58e10af65e1ae5f72\\transformed\\material-1.7.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\caches\\transforms-3\\48452db3b8ed34a07d0a0ba5d5f3a438\\transformed\\material-1.9.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

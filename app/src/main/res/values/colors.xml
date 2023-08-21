@@ -4,8 +4,9 @@
     <color name="secondary">#FFFFFF</color>
     <color name="Main_background">#E8EBFD</color>
     <color name="Main_background2">#F5F5F8</color>
-    <color name="card_background">#fff</color>
+    <color name="card_background">#F4F5F7</color>
     <color name="btn_background">#F0F0F0</color>
+    <color name="border_color">#EBECEE</color>
     <color name="ic_color">#7D858E</color>
     <color name="text_color">#50575D</color>
     <color name="primary_text">#50575D</color>
