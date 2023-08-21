@@ -1,8 +1,5 @@
 <resources>
-    <string name="app_name">Marathi Quotes &amp; Status</string>
-    <string name="navigation_open">Open navigation</string>
-    <string name="navigation_close">Close navigation</string>
+    <string name="app_name">E Commerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="sample_text">Sugar is as bad for your health as cigarettes Smoking is notoriously bad for your health, but SUGAR has a similar effect. In addition to cancer, heart disease, and stroke, added sugar consumption has also been linked to these deadly conditions. A study published in the journal Nutrients , excessive sugar consumption leads to obesity, cardiovascular disease, diabetes, non-alcoholic fatty liver disease, cognitive decline, and some forms of cancer.</string>
-    <string name="marathi_quotes_status"><![CDATA[#Marathi_Quotes_&_Status]]></string>
 </resources>

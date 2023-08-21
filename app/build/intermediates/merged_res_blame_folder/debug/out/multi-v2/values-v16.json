@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "com.nilscreation.marathiquotes.app-mergeDebugResources-38:/values-v16/values-v16.xml",
+            "outputFile": "com.nilscreation.ecommerce.app-mergeDebugResources-29:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\caches\\transforms-3\\e102db9ac5f392a41c24d53de041be36\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\9811bf6e0ea8002748e1a5d1e9eb40bd\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\780c8931bfe5d3b0e26a458d121ff58b\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\caches\\transforms-3\\c4fc61631775e3f04ac2f67e24a3ae75\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

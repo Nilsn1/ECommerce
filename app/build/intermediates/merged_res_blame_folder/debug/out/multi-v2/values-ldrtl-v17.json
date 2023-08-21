@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.nilscreation.marathiquotes.app-mergeDebugResources-38:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.nilscreation.ecommerce.app-mergeDebugResources-29:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\caches\\transforms-3\\48452db3b8ed34a07d0a0ba5d5f3a438\\transformed\\material-1.9.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\f74642be8bf65ac97ac1c6fafb4bca13\\transformed\\material-1.9.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
