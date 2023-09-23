@@ -1,0 +1,3 @@
+com.nilscreation.ecommerce.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

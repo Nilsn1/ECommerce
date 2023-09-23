@@ -28,6 +28,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.MovieList" >
         <activity
+            android:name="com.nilscreation.ecommerce.PaymentActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nilscreation.ecommerce.CartActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nilscreation.ecommerce.DetailActivity"
+            android:exported="false" />
+        <activity
             android:name="com.nilscreation.ecommerce.SignupActivity"
             android:exported="false" />
         <activity

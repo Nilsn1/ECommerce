@@ -1,0 +1,9 @@
+com.nilscreation.ecommerce.test.app-jetified-annotation-experimental-1.3.0-0 D:\ball 2\android\.gradle\7.4.1\caches\transforms-3\67da1139d0873ecd7c35d5ea9046964e\transformed\jetified-annotation-experimental-1.3.0\res
+com.nilscreation.ecommerce.test.app-jetified-core-1.5.0-1 D:\ball 2\android\.gradle\7.4.1\caches\transforms-3\7ea7ee71b1140ec012bcd329349fcd49\transformed\jetified-core-1.5.0\res
+com.nilscreation.ecommerce.test.app-androidTest-2 E:\APPS\E Commerce\app\build\generated\res\resValues\androidTest\debug
+com.nilscreation.ecommerce.test.app-androidTest-3 E:\APPS\E Commerce\app\build\generated\res\rs\androidTest\debug
+com.nilscreation.ecommerce.test.app-mergeDebugAndroidTestResources-4 E:\APPS\E Commerce\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nilscreation.ecommerce.test.app-mergeDebugAndroidTestResources-5 E:\APPS\E Commerce\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nilscreation.ecommerce.test.app-merged_res-6 E:\APPS\E Commerce\app\build\intermediates\merged_res\debugAndroidTest
+com.nilscreation.ecommerce.test.app-androidTest-7 E:\APPS\E Commerce\app\src\androidTest\res
+com.nilscreation.ecommerce.test.app-androidTestDebug-8 E:\APPS\E Commerce\app\src\androidTestDebug\res

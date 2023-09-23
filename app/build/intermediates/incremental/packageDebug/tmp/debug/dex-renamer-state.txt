@@ -1,18 +1,18 @@
-#Mon Aug 21 23:34:21 IST 2023
+#Sat Sep 23 11:22:10 IST 2023
 base.0=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.3=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.4=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.2=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.4=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
 base.5=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.6=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.6=E\:\\APPS\\E Commerce\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
-path.2=9/classes.dex
-path.3=12/classes.dex
-path.4=2/classes.dex
+path.2=12/classes.dex
+path.3=classes2.dex
+path.4=3/classes.dex
 path.5=6/classes.dex
-path.6=classes2.dex
+path.6=9/classes.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex

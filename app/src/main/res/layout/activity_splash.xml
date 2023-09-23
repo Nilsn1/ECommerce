@@ -7,25 +7,15 @@
     android:background="@color/card_background"
     tools:context=".SplashActivity">
 
-    <!--    <androidx.cardview.widget.CardView-->
-    <!--        android:layout_width="wrap_content"-->
-    <!--        android:layout_height="wrap_content"-->
-    <!--        android:layout_centerInParent="true"-->
-    <!--        app:cardBackgroundColor="@color/white"-->
-    <!--        app:cardCornerRadius="65dp"-->
-    <!--        app:cardElevation="5dp">-->
-
     <ImageView
         android:id="@+id/applogo"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
         android:layout_centerInParent="true"
         android:padding="10dp"
         android:src="@drawable/logo">
 
     </ImageView>
-
-    <!--    </androidx.cardview.widget.CardView>-->
 
     <TextView
         android:id="@+id/appname"
@@ -50,8 +40,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="50dp"
         android:fontFamily="@font/nunito_bold"
-        android:text="The Apna Shop"
-        android:textColor="@color/text_color"
+        android:text="Your Daily Shop"
+        android:textColor="@color/text_color2"
         android:textSize="16sp"
         android:textStyle="bold">
 
