@@ -31,7 +31,7 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 
 ## Technologies Used
 
-- Android Studio
+- Android Studio - IDE for Android Application Development.
 - Java
 - Retrofit for API communication
 - RecyclerView for displaying product list
