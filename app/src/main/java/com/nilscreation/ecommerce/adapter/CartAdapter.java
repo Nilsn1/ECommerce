@@ -56,8 +56,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
         Glide.with(context).load(cartModel.getImage()).into(holder.cartImg);
         holder.cartTitle.setText(cartModel.getTitle());
         holder.cartQty.setText(String.valueOf(cartModel.getQty()));
-        holder.cartfoodPrice.setText(String.valueOf(cartModel.getItemTotalPrice()));
-        Toast.makeText(context, "" + String.valueOf(cartModel.getItemTotalPrice()), Toast.LENGTH_SHORT).show();
+        holder.cartitemPrice.setText(String.valueOf(cartModel.getItemTotalPrice()));
         holder.deleteItem.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -65,6 +64,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
                 myDBHelper.deleteData(cartModel.getTitle());
                 cartlist.remove(cartModel);
                 notifyDataSetChanged();
+                sendDataToActivity(cartlist);
                 Toast.makeText(context, "Item Removed", Toast.LENGTH_SHORT).show();
             }
         });
@@ -83,7 +83,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
 
                 DecimalFormat decimalFormat = new DecimalFormat("#.##");
                 String formattedPrice = decimalFormat.format(mfinalPrice);
-                holder.cartfoodPrice.setText(formattedPrice);
+                holder.cartitemPrice.setText(formattedPrice);
 
                 sendDataToActivity(cartlist);
             }
@@ -102,7 +102,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
 
                     DecimalFormat decimalFormat = new DecimalFormat("#.##");
                     String formattedPrice = decimalFormat.format(mfinalPrice);
-                    holder.cartfoodPrice.setText(formattedPrice);
+                    holder.cartitemPrice.setText(formattedPrice);
                     sendDataToActivity(cartlist);
                 }
             }
@@ -117,16 +117,16 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
     public class ViewHolder extends RecyclerView.ViewHolder {
 
         ImageView cartImg, plusBtn, minusBtn, deleteItem;
-        TextView cartTitle, cartQty, cartfoodPrice;
+        TextView cartTitle, cartQty, cartitemPrice;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             cartImg = itemView.findViewById(R.id.cartImg);
             plusBtn = itemView.findViewById(R.id.plusBtn);
             minusBtn = itemView.findViewById(R.id.minusBtn);
-            cartTitle = itemView.findViewById(R.id.cartfoodTitle);
+            cartTitle = itemView.findViewById(R.id.cartitemTitle);
             cartQty = itemView.findViewById(R.id.cartQty);
-            cartfoodPrice = itemView.findViewById(R.id.cartfoodPrice);
+            cartitemPrice = itemView.findViewById(R.id.cartitemPrice);
             deleteItem = itemView.findViewById(R.id.deleteItem);
         }
     }

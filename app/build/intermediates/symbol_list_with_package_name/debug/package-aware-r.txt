@@ -3156,8 +3156,8 @@ id cartBtn
 id cartFab
 id cartImg
 id cartQty
-id cartfoodPrice
-id cartfoodTitle
+id cartitemPrice
+id cartitemTitle
 id cartlayout
 id categories
 id center
