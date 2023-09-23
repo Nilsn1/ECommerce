@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
@@ -22,7 +23,7 @@ public class PaymentActivity extends AppCompatActivity {
     Button btnPay;
     RadioGroup rgPayment;
     RadioButton gpay, paytm, phonepe;
-
+    EditText txtAddress;
     String paymentMethod;
 
     @Override
@@ -36,6 +37,7 @@ public class PaymentActivity extends AppCompatActivity {
         gpay = findViewById(R.id.gpay);
         paytm = findViewById(R.id.paytm);
         phonepe = findViewById(R.id.phonepe);
+        txtAddress = findViewById(R.id.txtAddress);
 
         rgPayment.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
@@ -78,6 +80,8 @@ public class PaymentActivity extends AppCompatActivity {
                         }
                     });
                     dialog.show();
+                } else if (txtAddress.getText().toString().isEmpty()) {
+                    txtAddress.setError("Enter Valid Address");
                 } else {
                     Toast.makeText(PaymentActivity.this, "Please Select Payment Method", Toast.LENGTH_SHORT).show();
                 }
