@@ -68,10 +68,6 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\order_successful.xml"
     },
     {
-        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_payment.xml.flat",
-        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_payment.xml"
-    },
-    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\menu_bottom_menu.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\menu\\bottom_menu.xml"
     },
@@ -150,6 +146,10 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_favourite.png.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_favourite.png"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_cart.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_cart.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_cancel.xml.flat",
@@ -234,6 +234,10 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_phonepe.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\phonepe.xml"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_delete.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_delete.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\font_nunito_bold.xml.flat",

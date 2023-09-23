@@ -2941,6 +2941,7 @@ drawable ic_cart
 drawable ic_categories
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
+drawable ic_delete
 drawable ic_favourite
 drawable ic_hide
 drawable ic_home
@@ -3153,6 +3154,10 @@ id cancel_button
 id carryVelocity
 id cartBtn
 id cartFab
+id cartImg
+id cartQty
+id cartfoodPrice
+id cartfoodTitle
 id cartlayout
 id categories
 id center
@@ -3177,6 +3182,7 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
+id constraintLayout
 id container
 id content
 id contentPanel
@@ -3195,6 +3201,7 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id deleteItem
 id deliveryCharges
 id deltaRelative
 id dependency_ordering
@@ -3410,7 +3417,6 @@ id pressed
 id productImg
 id progress_circular
 id progress_horizontal
-id qty
 id radio
 id ratio
 id rectangles
@@ -3567,6 +3573,7 @@ id tvDescription
 id tvLogin
 id tvPayment
 id tvPrice
+id tvQty
 id tvTitle
 id txtAddress
 id txtCategory

@@ -49,6 +49,7 @@ public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.viewhold
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(context, DetailActivity.class);
+                intent.putExtra("Id", product.getId());
                 intent.putExtra("Title", product.getTitle());
                 intent.putExtra("Description", product.getDescription());
                 intent.putExtra("Price", product.getPrice());
