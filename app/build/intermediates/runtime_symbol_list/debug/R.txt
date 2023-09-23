@@ -2931,6 +2931,7 @@ int drawable design_ic_visibility 0x7f080084
 int drawable design_ic_visibility_off 0x7f080085
 int drawable design_password_eye 0x7f080086
 int drawable design_snackbar_background 0x7f080087
+int drawable google_pay 0x7f0800ee
 int drawable ic_arrow_back_black_24 0x7f080088
 int drawable ic_cancel 0x7f0800e8
 int drawable ic_cart 0x7f0800ec
@@ -3026,6 +3027,8 @@ int drawable notification_template_icon_bg 0x7f0800df
 int drawable notification_template_icon_low_bg 0x7f0800e0
 int drawable notification_tile_bg 0x7f0800e1
 int drawable notify_panel_notification_icon_bg 0x7f0800e2
+int drawable paytm 0x7f0800ef
+int drawable phonepe 0x7f0800f0
 int drawable plus 0x7f0800eb
 int drawable rounded_card 0x7f0800e3
 int drawable test_level_drawable 0x7f0800e4
@@ -3549,6 +3552,7 @@ int id transition_transform 0x7f0a01e8
 int id triangle 0x7f0a01e9
 int id tvDescription 0x7f0a0218
 int id tvLogin 0x7f0a021b
+int id tvPayment 0x7f0a022a
 int id tvPrice 0x7f0a0219
 int id tvTitle 0x7f0a021a
 int id txtAddress 0x7f0a0229

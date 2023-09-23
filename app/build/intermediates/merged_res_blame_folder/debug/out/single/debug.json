@@ -20,6 +20,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_google_pay.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\google_pay.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
@@ -128,6 +132,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_paytm.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\paytm.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_custom_search.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\custom_search.xml"
     },
@@ -212,12 +220,20 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\plus.png"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_phonepe.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\phonepe.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\font_nunito_bold.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\font\\nunito_bold.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\anim_fade_in.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_activity_payment.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\activity_payment.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_minus.png.flat",
