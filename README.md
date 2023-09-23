@@ -24,9 +24,11 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
     <td>Splash Screen</td>
      <td>Login Page</td>
      <td>Home Fragment</td>
+    <td>Cart Screen</td>
   </tr>
   <tr>
     <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
   </tr>
