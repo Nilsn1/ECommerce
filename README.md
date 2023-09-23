@@ -1,6 +1,6 @@
 # E-Commerce Android App
 
-![App Screenshot](https://nilsn1.github.io/E_Commerce/app/src/main/res/drawable/logo.png)
+![App Screenshot](https://nilsn1.github.io/ECommerce/app/src/main/res/drawable/logo.png)
 
 Welcome to the E-Commerce Android App repository! This is an Android app that allows users to browse and purchase products from an e-commerce store. The app communicates with the server using Retrofit API for seamless network operations.
 
