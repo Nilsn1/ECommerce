@@ -12,30 +12,14 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 - Add products to the shopping cart
 - Proceed to checkout and place orders
 
-## App Screenshots
-
-<table>
-  <tr>
-    <td>Splash Screen</td>
-     <td>Login Page</td>
-     <td>Home Fragment</td>
-    <td>Cart Screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/splash.jpg" width=512></td>
-    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/login.jpg" width=512></td>
-    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/home.jpg" width=512></td>
-    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/cart.jpg" width=512></td>
-  </tr>
- </table>
-
 ## Technologies Used
 
 - Android Studio - IDE for Android Application Development.
-- Java
-- Retrofit for API communication
-- RecyclerView for displaying product list
-- Glide for image loading
+- XML - for UI Design.
+- Java - for Back-end.
+- Retrofit API - for API communication.
+- RecyclerView - for displaying product list.
+- Glide Library - for image loading.
 
 ## Output
 
