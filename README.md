@@ -28,3 +28,10 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 ## Output
 
 - Download Apk
+
+## Login Details
+
+This app uses fakestoreapi, so use only given credentials for authentication.
+
+Username : donero
+Password: ewedon
