@@ -64,6 +64,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\line.xml"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_order_successful.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\order_successful.xml"
+    },
+    {
         "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_payment.xml.flat",
         "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_payment.xml"
     },
@@ -156,6 +160,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\font\\marathi709.TTF"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\anim_alpha.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\anim\\alpha.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_activity_signup.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\activity_signup.xml"
     },
@@ -186,6 +194,10 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_checked.png.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\checked.png"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_show.xml.flat",

@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/main_background"
     android:orientation="vertical"
     tools:context=".PaymentActivity">
 
@@ -50,14 +49,16 @@
         android:layout_below="@id/tvPayment"
         android:layout_marginHorizontal="20dp"
         android:layout_marginVertical="10dp"
-        android:background="@drawable/rounded_card"
+        android:background="@drawable/custom_input"
         android:padding="10dp">
 
         <RadioGroup
+            android:id="@+id/rgPayment"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
             <RadioButton
+                android:id="@+id/gpay"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/google_pay"
@@ -67,6 +68,7 @@
                 android:textColor="@color/text_color" />
 
             <RadioButton
+                android:id="@+id/paytm"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/paytm"
@@ -76,6 +78,7 @@
                 android:textColor="@color/text_color" />
 
             <RadioButton
+                android:id="@+id/phonepe"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/phonepe"
@@ -93,7 +96,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_marginTop="10dp"
-        android:background="@drawable/rounded_card"
         android:orientation="vertical"
         android:padding="20dp"
         android:visibility="visible">
@@ -115,7 +117,7 @@
                 android:fontFamily="@font/nunito_bold"
                 android:hint="Address"
                 android:padding="10dp"
-                android:textSize="15sp" />
+                android:textSize="16sp" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
@@ -136,7 +138,7 @@
                     app:layout_constraintTop_toTopOf="parent" />
 
                 <TextView
-                    android:id="@+id/totalCharges"
+                    android:id="@+id/amount"
                     android:layout_width="80dp"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/nunito_bold"
@@ -153,13 +155,14 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/checkout"
+            android:id="@+id/btnPay"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:fontFamily="@font/nunito_bold"
+            android:letterSpacing="0"
             android:padding="15dp"
-            android:text="CheckOut"
+            android:text="Process to Payment"
             android:textSize="16sp"
             app:cornerRadius="15dp" />
 
