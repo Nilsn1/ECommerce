@@ -17,7 +17,7 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
-#### App Screenshots
+## App Screenshots
 
 <table>
   <tr>
@@ -27,7 +27,7 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
     <td>Cart Screen</td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/splash.jpg" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
