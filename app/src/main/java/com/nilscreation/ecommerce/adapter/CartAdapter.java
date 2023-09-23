@@ -18,6 +18,7 @@ import com.nilscreation.ecommerce.R;
 import com.nilscreation.ecommerce.model.CartModel;
 import com.nilscreation.ecommerce.service.MyDBHelper;
 
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 
 public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
@@ -56,7 +57,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
         holder.cartTitle.setText(cartModel.getTitle());
         holder.cartQty.setText(String.valueOf(cartModel.getQty()));
         holder.cartfoodPrice.setText(String.valueOf(cartModel.getItemTotalPrice()));
-
+        Toast.makeText(context, "" + String.valueOf(cartModel.getItemTotalPrice()), Toast.LENGTH_SHORT).show();
         holder.deleteItem.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -64,7 +65,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
                 myDBHelper.deleteData(cartModel.getTitle());
                 cartlist.remove(cartModel);
                 notifyDataSetChanged();
-                Toast.makeText(context, "Item Deleted", Toast.LENGTH_SHORT).show();
+                Toast.makeText(context, "Item Removed", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -79,8 +80,11 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
                 cartModel.setQty(mqty);
 
                 mfinalPrice = mqty * cartModel.getPrice();
-                holder.cartfoodPrice.setText(String.valueOf(mfinalPrice));
-//                calculateTotalPrice();
+
+                DecimalFormat decimalFormat = new DecimalFormat("#.##");
+                String formattedPrice = decimalFormat.format(mfinalPrice);
+                holder.cartfoodPrice.setText(formattedPrice);
+
                 sendDataToActivity(cartlist);
             }
         });
@@ -95,8 +99,10 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
                     cartModel.setQty(mqty);
 
                     mfinalPrice = mqty * cartModel.getPrice();
-                    holder.cartfoodPrice.setText(String.valueOf(mfinalPrice));
-//                    calculateTotalPrice();
+
+                    DecimalFormat decimalFormat = new DecimalFormat("#.##");
+                    String formattedPrice = decimalFormat.format(mfinalPrice);
+                    holder.cartfoodPrice.setText(formattedPrice);
                     sendDataToActivity(cartlist);
                 }
             }

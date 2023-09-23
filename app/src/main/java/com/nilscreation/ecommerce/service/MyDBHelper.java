@@ -99,6 +99,13 @@ public class MyDBHelper extends SQLiteOpenHelper {
         db.delete(TABLE_NAME, COLUMN_TITLE + " = ? ", new String[]{title});
     }
 
+    public void deleteAllData() {
+        SQLiteDatabase db = this.getWritableDatabase();
+
+        db.delete(TABLE_NAME, null, null);
+        db.close();
+    }
+
     public void deleteandAdd(String orderid, String title, Float price, int qty, Float itemTotalPrice, Float finalPrice, String image) {
 
         SQLiteDatabase db = this.getWritableDatabase();

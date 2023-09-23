@@ -54,7 +54,7 @@ public class PaymentActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
         if (intent != null) {
-            amount.setText("" + intent.getFloatExtra("Amount", 0));
+            amount.setText("$" + intent.getIntExtra("Total", 0));
         }
 
         btnPay.setOnClickListener(new View.OnClickListener() {

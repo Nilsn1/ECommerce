@@ -15,6 +15,8 @@ import com.nilscreation.ecommerce.service.MyDBHelper;
 
 import org.w3c.dom.Text;
 
+import java.text.DecimalFormat;
+
 public class DetailActivity extends AppCompatActivity {
 
     TextView tvTitle, tvPrice, tvDescription, tvQty;
@@ -40,7 +42,6 @@ public class DetailActivity extends AppCompatActivity {
         tvQty = findViewById(R.id.tvQty);
         productImg = findViewById(R.id.productImg);
         cartBtn = findViewById(R.id.cartBtn);
-
         cartBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -58,6 +59,8 @@ public class DetailActivity extends AppCompatActivity {
             mprice = intent.getFloatExtra("Price", 0);
             image = intent.getStringExtra("Url");
 
+            itemFinalPrice = mprice * qtyNumber;
+
 
             tvTitle.setText(intent.getStringExtra("Title"));
             tvDescription.setText(intent.getStringExtra("Description"));
@@ -72,7 +75,10 @@ public class DetailActivity extends AppCompatActivity {
                 qtyNumber = qtyNumber + 1;
                 tvQty.setText(String.valueOf(qtyNumber));
                 itemFinalPrice = mprice * qtyNumber;
-                tvPrice.setText(String.valueOf(itemFinalPrice));
+
+                DecimalFormat decimalFormat = new DecimalFormat("#.##");
+                String formattedPrice = decimalFormat.format(itemFinalPrice);
+                tvPrice.setText("" + formattedPrice);
             }
         });
 
@@ -84,7 +90,10 @@ public class DetailActivity extends AppCompatActivity {
                 }
                 tvQty.setText(String.valueOf(qtyNumber));
                 itemFinalPrice = mprice * qtyNumber;
-                tvPrice.setText(String.valueOf(itemFinalPrice));
+
+                DecimalFormat decimalFormat = new DecimalFormat("#.##");
+                String formattedPrice = decimalFormat.format(itemFinalPrice);
+                tvPrice.setText("" + formattedPrice);
             }
         });
     }

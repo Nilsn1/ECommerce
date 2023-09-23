@@ -116,8 +116,8 @@
                 android:drawablePadding="5dp"
                 android:fontFamily="@font/nunito_bold"
                 android:hint="Address"
-                android:padding="10dp"
-                android:textSize="16sp" />
+                android:padding="12dp"
+                android:textSize="18sp" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
