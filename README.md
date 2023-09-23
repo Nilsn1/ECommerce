@@ -28,9 +28,9 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
   </tr>
   <tr>
     <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/splash.jpg" width=512></td>
-    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/splash.jpg" width=512></td>
-    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/splash.jpg" width=512></td>
-    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/splash.jpg" width=512></td>
+    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/login.jpg" width=512></td>
+    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/home.jpg" width=512></td>
+    <td><img src="https://nilsn1.github.io/nilscreation/ECommerce/cart.jpg" width=512></td>
   </tr>
  </table>
 
