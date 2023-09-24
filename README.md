@@ -23,7 +23,7 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 
 ## Video Demo
 
-- [Download Apk](https://youtu.be/xlOEl5uHoMI?si=PifGgV5wnN0l6-4Q)
+- [See Now](https://youtu.be/xlOEl5uHoMI?si=PifGgV5wnN0l6-4Q)
 
 ## Output
 
