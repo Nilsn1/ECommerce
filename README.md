@@ -21,6 +21,10 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 - RecyclerView - for displaying product list.
 - Glide Library - for image loading.
 
+## Video Demo
+
+- [Download Apk](https://youtu.be/xlOEl5uHoMI?si=PifGgV5wnN0l6-4Q)
+
 ## Output
 
 - [Download Apk](https://drive.google.com/file/d/1-MsVBcKedYsAa_yfnE7jFnP5PqviLNoV/view?usp=drivesdk)
