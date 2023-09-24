@@ -30,6 +30,10 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 
 - [Download Apk](https://drive.google.com/file/d/1-MsVBcKedYsAa_yfnE7jFnP5PqviLNoV/view?usp=drivesdk)
 
+## Source Code
+
+- [GitHub](https://github.com/Nilsn1/ECommerce)
+
 ## Login Details
 
 This app uses fakestoreapi, so use only given credentials for authentication.
