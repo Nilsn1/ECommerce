@@ -8,6 +8,7 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 
 - User authentication
 - Browse and search for products
+- Sort products by Category wise and Price wise
 - View product details including images, descriptions, and prices
 - Add products to the shopping cart
 - Proceed to checkout and place orders
