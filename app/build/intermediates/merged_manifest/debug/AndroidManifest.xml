@@ -28,29 +28,29 @@
         android:testOnly="true"
         android:theme="@style/Theme.MovieList" >
         <activity
-            android:name="com.nilscreation.ecommerce.PaymentActivity"
+            android:name="com.nilscreation.ecommerce.activities.PaymentActivity"
             android:exported="false" />
         <activity
-            android:name="com.nilscreation.ecommerce.CartActivity"
+            android:name="com.nilscreation.ecommerce.activities.CartActivity"
             android:exported="false" />
         <activity
-            android:name="com.nilscreation.ecommerce.DetailActivity"
+            android:name="com.nilscreation.ecommerce.activities.DetailActivity"
             android:exported="false" />
         <activity
-            android:name="com.nilscreation.ecommerce.SignupActivity"
+            android:name="com.nilscreation.ecommerce.activities.SignupActivity"
             android:exported="false" />
         <activity
-            android:name="com.nilscreation.ecommerce.LoginActivity"
+            android:name="com.nilscreation.ecommerce.activities.LoginActivity"
             android:exported="false" />
         <activity
-            android:name="com.nilscreation.ecommerce.HomeActivity"
+            android:name="com.nilscreation.ecommerce.activities.HomeActivity"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name="com.nilscreation.ecommerce.SplashActivity"
+            android:name="com.nilscreation.ecommerce.activities.SplashActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -103,54 +103,54 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\ball 2\a
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:12:9-47
-activity#com.nilscreation.ecommerce.PaymentActivity
+activity#com.nilscreation.ecommerce.activities.PaymentActivity
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:13:9-15:40
 	android:exported
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:14:13-44
-activity#com.nilscreation.ecommerce.CartActivity
+		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:14:13-55
+activity#com.nilscreation.ecommerce.activities.CartActivity
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:16:9-18:40
 	android:exported
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:18:13-37
 	android:name
-		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:17:13-41
-activity#com.nilscreation.ecommerce.DetailActivity
+		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:17:13-52
+activity#com.nilscreation.ecommerce.activities.DetailActivity
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:19:9-21:40
 	android:exported
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:20:13-43
-activity#com.nilscreation.ecommerce.SignupActivity
+		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:20:13-54
+activity#com.nilscreation.ecommerce.activities.SignupActivity
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:22:9-24:40
 	android:exported
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:23:13-43
-activity#com.nilscreation.ecommerce.LoginActivity
+		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:23:13-54
+activity#com.nilscreation.ecommerce.activities.LoginActivity
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:25:9-27:40
 	android:exported
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:26:13-42
-activity#com.nilscreation.ecommerce.HomeActivity
+		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:26:13-53
+activity#com.nilscreation.ecommerce.activities.HomeActivity
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:exported
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:29:13-52
 meta-data#android.app.lib_name
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:31:13-33:36
 	android:value
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:33:17-33
 	android:name
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:32:17-52
-activity#com.nilscreation.ecommerce.SplashActivity
+activity#com.nilscreation.ecommerce.activities.SplashActivity
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:35:9-43:20
 	android:exported
 		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:36:13-43
+		ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:36:13-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN

@@ -12,9 +12,9 @@
         android:title="Categories" />
 
     <item
-        android:id="@+id/favourite"
-        android:icon="@drawable/ic_favourite"
-        android:title="Favourite" />
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_contact"
+        android:title="Contact" />
 
     <item
         android:id="@+id/settings"

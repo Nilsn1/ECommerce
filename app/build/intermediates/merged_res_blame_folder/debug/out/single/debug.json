@@ -4,12 +4,20 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_settings.png"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_fragment_contact.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\fragment_contact.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\font_nunito_semibold.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\font\\nunito_semibold.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_location.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_signup.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_signup.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -36,16 +44,20 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\font\\marathi644.TTF"
     },
     {
-        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_activity_login.xml.flat",
-        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\activity_login.xml"
-    },
-    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_activity_cart.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\activity_cart.xml"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_fragment_settings.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/fragment_settings.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -68,6 +80,14 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\order_successful.xml"
     },
     {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_payment.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_splash.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_splash.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\menu_bottom_menu.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\menu\\bottom_menu.xml"
     },
@@ -84,6 +104,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\font\\varelaround_regular.ttf"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_fragment_settings.xml.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\fragment_settings.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_rounded_card.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\rounded_card.xml"
     },
@@ -94,6 +118,10 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_faq.png.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_faq.png"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_fragment_main.xml.flat",
@@ -144,12 +172,20 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\custom_search.xml"
     },
     {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_detail.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_detail.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_cart_item.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\cart_item.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_favourite.png.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_favourite.png"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_cart.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_cart.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_cancel.xml.flat",
@@ -180,6 +216,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_privacy.png.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_privacy.png"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_logo.png.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\logo.png"
     },
@@ -190,6 +230,18 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\xml_paths.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\xml\\paths.xml"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_share.png.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_fragment_main.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_contact.png.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_contact.png"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
@@ -212,6 +264,10 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/menu_bottom_menu.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/menu/bottom_menu.xml"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
@@ -222,6 +278,10 @@
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_product_item.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\product_item.xml"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_activity_home.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/activity_home.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_categories.png.flat",
@@ -248,11 +308,19 @@
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\anim\\fade_in.xml"
     },
     {
+        "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_ic_more.png.flat",
+        "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\ic_more.png"
+    },
+    {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\layout_activity_payment.xml.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\layout\\activity_payment.xml"
     },
     {
         "merged": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-merged_res-31:\\drawable_minus.png.flat",
         "source": "D:\\ball 2\\android\\.gradle\\7.4.1\\daemon\\7.4\\com.nilscreation.ecommerce.app-main-33:\\drawable\\minus.png"
+    },
+    {
+        "merged": "com.nilscreation.ecommerce.app-merged_res-31:/layout_fragment_contact.xml.flat",
+        "source": "com.nilscreation.ecommerce.app-main-33:/layout/fragment_contact.xml"
     }
 ]

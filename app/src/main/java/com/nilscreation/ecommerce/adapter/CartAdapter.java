@@ -9,11 +9,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
-import androidx.fragment.app.FragmentActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.nilscreation.ecommerce.CartActivity;
+import com.nilscreation.ecommerce.activities.CartActivity;
 import com.nilscreation.ecommerce.R;
 import com.nilscreation.ecommerce.model.CartModel;
 import com.nilscreation.ecommerce.service.MyDBHelper;

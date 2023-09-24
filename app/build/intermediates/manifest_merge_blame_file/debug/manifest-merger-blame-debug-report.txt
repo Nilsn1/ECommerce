@@ -46,38 +46,38 @@
 29-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:12:9-47
 30        <activity
 30-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:13:9-15:40
-31            android:name="com.nilscreation.ecommerce.PaymentActivity"
-31-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:14:13-44
+31            android:name="com.nilscreation.ecommerce.activities.PaymentActivity"
+31-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:14:13-55
 32            android:exported="false" />
 32-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:15:13-37
 33        <activity
 33-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:16:9-18:40
-34            android:name="com.nilscreation.ecommerce.CartActivity"
-34-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:17:13-41
+34            android:name="com.nilscreation.ecommerce.activities.CartActivity"
+34-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:17:13-52
 35            android:exported="false" />
 35-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:18:13-37
 36        <activity
 36-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:19:9-21:40
-37            android:name="com.nilscreation.ecommerce.DetailActivity"
-37-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:20:13-43
+37            android:name="com.nilscreation.ecommerce.activities.DetailActivity"
+37-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:20:13-54
 38            android:exported="false" />
 38-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:21:13-37
 39        <activity
 39-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:22:9-24:40
-40            android:name="com.nilscreation.ecommerce.SignupActivity"
-40-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:23:13-43
+40            android:name="com.nilscreation.ecommerce.activities.SignupActivity"
+40-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:23:13-54
 41            android:exported="false" />
 41-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:24:13-37
 42        <activity
 42-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:25:9-27:40
-43            android:name="com.nilscreation.ecommerce.LoginActivity"
-43-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:26:13-42
+43            android:name="com.nilscreation.ecommerce.activities.LoginActivity"
+43-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:26:13-53
 44            android:exported="false" />
 44-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:27:13-37
 45        <activity
 45-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:28:9-34:20
-46            android:name="com.nilscreation.ecommerce.HomeActivity"
-46-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:29:13-41
+46            android:name="com.nilscreation.ecommerce.activities.HomeActivity"
+46-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:29:13-52
 47            android:exported="false" >
 47-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:30:13-37
 48            <meta-data
@@ -89,8 +89,8 @@
 51        </activity>
 52        <activity
 52-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:35:9-43:20
-53            android:name="com.nilscreation.ecommerce.SplashActivity"
-53-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:36:13-43
+53            android:name="com.nilscreation.ecommerce.activities.SplashActivity"
+53-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:36:13-54
 54            android:exported="true" >
 54-->E:\APPS\E Commerce\app\src\main\AndroidManifest.xml:37:13-36
 55            <intent-filter>

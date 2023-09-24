@@ -2941,7 +2941,9 @@ drawable ic_cart
 drawable ic_categories
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
+drawable ic_contact
 drawable ic_delete
+drawable ic_faq
 drawable ic_favourite
 drawable ic_hide
 drawable ic_home
@@ -2950,12 +2952,15 @@ drawable ic_location
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
+drawable ic_more
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_privacy
 drawable ic_search_black_24
 drawable ic_settings
+drawable ic_share
 drawable ic_show
 drawable line
 drawable logo
@@ -3144,9 +3149,14 @@ id bounceEnd
 id bounceStart
 id btn
 id btnAdd
+id btnContact
 id btnLogin
+id btnMore
 id btnPay
+id btnPrivacy
+id btnShare
 id btnSignup
+id btnfaq
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3179,10 +3189,12 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id complain
 id compress
 id confirm_button
 id constraint
 id constraintLayout
+id contact
 id container
 id content
 id contentPanel
@@ -3244,7 +3256,6 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
-id favourite
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3295,6 +3306,7 @@ id inward
 id italic
 id itemTotalPrice
 id item_touch_helper_previous_elevation
+id jokes
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -3515,7 +3527,9 @@ id staticPostLayout
 id stop
 id stretch
 id subText
+id subject
 id submenuarrow
+id submit
 id submit_area
 id subtext
 id supportScrollUp
@@ -3585,6 +3599,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id version
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3740,7 +3755,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_contact
 layout fragment_main
+layout fragment_settings
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
