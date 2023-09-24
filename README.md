@@ -12,18 +12,14 @@ Welcome to the E-Commerce Android App repository! This is an Android app that al
 - Add products to the shopping cart
 - Proceed to checkout and place orders
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## Technologies Used
 
-- Android Studio
-- Java
-- Retrofit for API communication
-- RecyclerView for displaying product list
-- Glide for image loading
+- Android Studio - IDE for Android Application Development.
+- XML - for UI Design.
+- Java - for Back-end.
+- Retrofit API - for API communication.
+- RecyclerView - for displaying product list.
+- Glide Library - for image loading.
 
 ## Output
 
